@@ -11,6 +11,10 @@ body{
   flex-direction: column;
   
 }
+.container{
+  width: 80%;
+  display: flex;
+}
 /*-------nav-----*/
 nav{
   width: 100%;
